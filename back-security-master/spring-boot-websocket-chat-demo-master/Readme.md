@@ -32,8 +32,6 @@ Alternatively, you can run the app directly without packaging it like so -
 mvn spring-boot:run
 ```
 
-## Learn More
-
-You can find the tutorial for this application on my blog -
+## Reference:
 
 https://www.callicoder.com/spring-boot-websocket-chat-example/
